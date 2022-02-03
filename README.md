@@ -27,6 +27,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+### ✨ &nbsp;Current Hobby Project: [Aurica](https://github.com/ElliotHume/Aurica)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -38,7 +40,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://elliothume.github.io/"><img src="https://img.shields.io/badge/-elliothue.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/elliot-hume-729062124/"><img src="https://img.shields.io/badge/-Elliot%20Hume-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:elliot@hume.ca"><img src="https://img.shields.io/badge/-elliot@hume.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
