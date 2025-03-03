@@ -28,6 +28,11 @@
 
 ### ✨ &nbsp;Current Hobby Project: [Project Prototyping](https://github.com/ElliotHume/project-prototyping)
 - A template Unity project I use for prototyping systems, design ideas, future game jams, and for fun coding challenges!
+- Currently implements systems for:
+    - Player proximity and picking up/dropping Interactions
+    - 3D In-world mouse/gamepad selectables
+    - An extremely extendable chess system with support for any kind of pieces [WIP]
+    - A tetris-grid style inventory system (think Escape from Tarkov) [WIP]
 
 ### ✨ &nbsp;Previous Project: [Aurica](https://github.com/ElliotHume/Aurica)
 - Multiplayer PvP spellcasting game with a deep and engaging magic system.
