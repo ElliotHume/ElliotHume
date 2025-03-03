@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and make fun prototypes.\
-📑 &nbsp;I am currently working as a Senior Unity Game Developer at [Greensky Games](https://www.greensky.games/) on [ANOMALY](https://www.anomaly-vr.com/), a PvPvE Extraction Shooter.\
+📑 &nbsp;I am currently working as a Senior Unity Game Developer at [Greensky Games](https://www.greensky.games/) on [ANOMALY](https://www.anomaly-vr.com/), a VR PvPvE Extraction Shooter.\
 🎓 &nbsp;Graduated from Software Design at the Queen's University with a sub-specialty in Game Development.\
 ✨ &nbsp;In my free time, I like to make PC and VR games with engaging magic systems.\
 💬 &nbsp;Feel free to reach out to me with job opportunities, or just for some interesting discussion.\
