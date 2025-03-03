@@ -2,13 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I recently graduated from Software Design at the Queen's University with a sub-specialty in Game Development.\
-🌱 &nbsp;I'm on track for learning more about Virtual Reality, Systems Design, and Game Development.\
-✨ &nbsp;In my free time, I like to make PC and VR games with complex magic systems.\
+💡  &nbsp;I like to explore new technologies and make fun prototypes.\
+📑 &nbsp;I am currently working as a Senior Unity Game Developer at [Greensky Games](https://www.greensky.games/) on [ANOMALY](https://www.anomaly-vr.com/), a PvPvE Extraction Shooter.\
+🎓 &nbsp;Graduated from Software Design at the Queen's University with a sub-specialty in Game Development.\
+✨ &nbsp;In my free time, I like to make PC and VR games with engaging magic systems.\
 💬 &nbsp;Feel free to reach out to me with job opportunities, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at elliot@hume.ca! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://elliothume.github.io/Resume/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at elliot.a.hume@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,23 +26,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### ✨ &nbsp;Current Hobby Project: [Aurica](https://github.com/ElliotHume/Aurica)
+### ✨ &nbsp;Current Hobby Project: [Project Prototyping](https://github.com/ElliotHume/project-prototyping)
+- A template Unity project I use for prototyping systems, design ideas, future game jams, and for fun coding challenges!
 
-### ⚙️ &nbsp;GitHub Analytics
+### ✨ &nbsp;Previous Project: [Aurica](https://github.com/ElliotHume/Aurica)
+- Multiplayer PvP spellcasting game with a deep and engaging magic system.
+- Entirely solo-developed, using Unity assets for art and VFX.  
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElliotHume&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElliotHume&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://elliothume.github.io/"><img src="https://img.shields.io/badge/-elliothue.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/elliot-hume-729062124/"><img src="https://img.shields.io/badge/-Elliot%20Hume-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:elliot@hume.ca"><img src="https://img.shields.io/badge/-elliot@hume.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:elliot.a.hume@gmail.com"><img src="https://img.shields.io/badge/-elliot.a.hume@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 -----
