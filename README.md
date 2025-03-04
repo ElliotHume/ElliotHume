@@ -26,6 +26,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+## Portfolio
+
 ### ✨ &nbsp;Current Hobby Project: [Project Prototyping](https://github.com/ElliotHume/project-prototyping)
 - A template Unity project I use for prototyping systems, design ideas, future game jams, and for fun coding challenges!
 - Currently implements systems for:
@@ -34,15 +36,24 @@
     - An extremely extendable chess system with support for any kind of pieces [WIP]
     - A tetris-grid style inventory system (think Escape from Tarkov) [WIP]
 
-### ✨ &nbsp;Previous Project: [Aurica](https://github.com/ElliotHume/Aurica)
+### 🎮 &nbsp;Game Jams!
+- GMTK 2023 Game Jam Submission: [Strike out!](https://elliothume.itch.io/strike-out)
+- GMTK 2022 Game Jam Submission: [The Margins](https://addyvan.itch.io/the-margins)
+
+### 🖥️ &nbsp;Previous Project: [Aurica](https://github.com/ElliotHume/Aurica)
 - Multiplayer PvP spellcasting game with a deep and engaging magic system.
 - Entirely solo-developed, using Unity assets for art and VFX.  
+
+### 🖥️ &nbsp;Learning Projects:
+- [Labyrinthian VR](https://github.com/ElliotHume/LabyrinthianVR) for learning Unity VR Game Development
+- [Runic Warfare](https://github.com/Humeian/Runic-Warfare) for learning Unity, university capstone project.
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/elliot-hume-729062124/"><img src="https://img.shields.io/badge/-Elliot%20Hume-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/elliothume/"><img src="https://img.shields.io/badge/-Elliot%20Hume-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:elliot.a.hume@gmail.com"><img src="https://img.shields.io/badge/-elliot.a.hume@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
